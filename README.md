@@ -8,7 +8,10 @@ Simply lists out the cameras available from WebCamTexture.devices in Unity. Main
 - internal and/or external webcam
 
 ### Usage
-Start app from Scenes/Main.unity
+- In Unity
+    - Start app from Scenes/Main.unity
+- On Device
+    - install the APK that can be found at the root of this project
 
 ### Examples
 Using WebCamTextures we search for devices with the loop: 
