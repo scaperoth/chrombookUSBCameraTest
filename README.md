@@ -10,7 +10,7 @@ Simply lists out the cameras available from WebCamTexture.devices in Unity. Main
 ### Usage
 - In Unity
     - Start app from Scenes/Main.unity
-- On Device
+- On Android/Chrombook Device
     - install the APK that can be found at the root of this project
 
 ### Examples
