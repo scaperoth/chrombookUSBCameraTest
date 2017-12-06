@@ -1,7 +1,7 @@
 # Chromebook USB Camera Test
 
 ### Overview
-Simply lists out the cameras available from WebCamTexture.devices in Unity.
+Simply lists out the cameras available from WebCamTexture.devices in Unity. Main script is in ```Assets/Scripts/TestController```
 
 ### Dependencies
 - Unity 2017.2.0f3 64bit
@@ -15,8 +15,8 @@ Using WebCamTextures we search for devices with the loop:
 
 ```
 for (int cameraIndex = 0; cameraIndex < WebCamTexture.devices.Length; cameraIndex++) {
-			...
-		}
+    ...
+}
 ```
 
 To view results on both Mac and Chromebook, view the gifs in the root of this project. These show how the application behaves while plugging in and unplugging a USB camera.
